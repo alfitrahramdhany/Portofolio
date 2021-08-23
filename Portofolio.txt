@@ -2,3 +2,5 @@ Portofolio
 - Membuat tampilan/cloning Facebook
 - Membuat tampilan/cloning Instagram
 - Membuat tampilan/cloning Youtube
+- Membuat tampilan/cloning Twitter
+- Membuat tampilan/cloning Google
